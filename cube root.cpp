@@ -7,7 +7,7 @@ int main()
 	scanf("%f",&n);
 	m=pow(n,3);
 	
-	printf("the cube root of the  number is %f",m);
+	printf("the cube  of the  number is %f",m);
 	return(0);
 	
 	
